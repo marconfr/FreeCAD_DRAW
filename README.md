@@ -10,14 +10,6 @@ Each design is structured for easy modification, allowing you to adapt the model
 
 ---
 
-## Features
-
-- **Modular Designs**: Easily adjustable to fit other similar board sizes.
-- **High Compatibility**: Designed for common manufacturing methods such as 3D printing and CNC milling.
-- **Open-Source Collaboration**: Feel free to contribute improvements or suggest features.
-
----
-
 ## Usage
 
 1. Open the `.FCStd` files in [FreeCAD](https://www.freecadweb.org/).
